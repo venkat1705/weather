@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Create keys.js File in src
+### keys.js
+module.exports={
+    base:"",
+    key:""
+    }
+    
+# Here base means OpenWeatherApi base url
+  # ex:"https://api.openweathermap.org/data/2.5/"
+  # key:your Api key
+  
